@@ -10,9 +10,15 @@
 # Topic chia theo mối quan tâm
 ## Testing material (tài liệu phục vụ test)
 ## Testing tools (công cụ test)
+### Chụp ảnh màn hình
+- Free
+- Có phí
+
 ### Test API
-- [Postman](https://www.postman.com/)
-- 
+- Free
+    - [Postman](https://www.postman.com/)
+- Có phí
+    - 
 ## Manual testing
 ## Automation testing
 ## API testing
@@ -28,3 +34,8 @@
 # Cộng đồng testing
 1. [Cộng đồng TESTING VN](https://www.facebook.com/groups/382211559308192)
 2. [Cộng đồng Playwright Việt Nam](https://www.facebook.com/groups/1477249662842354)
+
+# Tham khảo thêm tài liệu testing:
+1. https://github.com/TheJambo/awesome-testing
+2. https://github.com/0xIslamTaha/Awesome-Testing
+3. https://dev.to/n_demia/10-github-repositories-for-software-testers-59ea
