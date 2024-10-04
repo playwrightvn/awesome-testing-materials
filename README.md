@@ -2,6 +2,39 @@
 - Repo này tổng hợp các kiến thức về Testing, dành cho các bạn: manual tester, automation tester và các bạn quan tâm tới testing.
 - Repo vẫn thường xuyên được update, và mong nhận được đóng góp từ cộng đồng. Nếu bạn có ý tưởng, hoặc muốn sửa lỗi, đừng ngần ngại tạo 1 pull request nhé ^^
 
+# Mục lục
+- [Giới thiệu](#giới-thiệu)
+- [Mục lục](#mục-lục)
+- [Topic hàng ngày](#topic-hàng-ngày)
+  - [Blog cập nhật kiến thức QA hàng ngày](#blog-cập-nhật-kiến-thức-qa-hàng-ngày)
+    - [Blog tiếng Việt](#blog-tiếng-việt)
+    - [Blog tiếng Anh](#blog-tiếng-anh)
+  - [Kênh Youtube hay dành cho QA‌/ Tester](#kênh-youtube-hay-dành-cho-qa-tester)
+  - [Cộng đồng testing](#cộng-đồng-testing)
+    - [Cộng đồng Việt Nam](#cộng-đồng-việt-nam)
+    - [Cộng đồng trên thế giới](#cộng-đồng-trên-thế-giới)
+  - [Repo luyện tập](#repo-luyện-tập)
+- [Topic chia theo level](#topic-chia-theo-level)
+  - [Level beginner](#level-beginner)
+  - [Level advance](#level-advance)
+  - [Câu hỏi phỏng vấn](#câu-hỏi-phỏng-vấn)
+- [Topic chia theo mối quan tâm](#topic-chia-theo-mối-quan-tâm)
+  - [Testing material (tài liệu phục vụ test)](#testing-material-tài-liệu-phục-vụ-test)
+  - [Testing tools (công cụ test)](#testing-tools-công-cụ-test)
+    - [Chụp ảnh màn hình](#chụp-ảnh-màn-hình)
+    - [Test API](#test-api)
+      - [Free](#free)
+      - [Có phí](#có-phí)
+  - [Manual testing](#manual-testing)
+  - [Automation testing](#automation-testing)
+  - [API testing](#api-testing)
+  - [Security testing](#security-testing)
+  - [Performance testing](#performance-testing)
+- [Chứng chỉ liên quan đến testing](#chứng-chỉ-liên-quan-đến-testing)
+- [Sách liên quan đến testing](#sách-liên-quan-đến-testing)
+- [Tham khảo thêm tài liệu testing:](#tham-khảo-thêm-tài-liệu-testing)
+
+
 # Topic hàng ngày
 ## Blog cập nhật kiến thức QA hàng ngày
 ### Blog tiếng Việt
