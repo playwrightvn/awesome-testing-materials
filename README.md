@@ -2,11 +2,48 @@
 - Repo này tổng hợp các kiến thức về Testing, dành cho các bạn: manual tester, automation tester và các bạn quan tâm tới testing.
 - Repo vẫn thường xuyên được update, và mong nhận được đóng góp từ cộng đồng. Nếu bạn có ý tưởng, hoặc muốn sửa lỗi, đừng ngần ngại tạo 1 pull request nhé ^^
 
+# Topic hàng ngày
+## Blog cập nhật kiến thức QA hàng ngày
+### Blog tiếng Việt
+1. Blog Playwright Việt Nam
+1. Blog của anh Jos Donal Tran: https://doaitran.super.site/
+1. Blog Testing VN: https://www.testing.vn/blogs/
+1. Blog Anh Tester: https://anhtester.com/blogs
+1. Blog Giang Tester: https://giangtester.com/
+1. Blog Thanh Hoa Trần: https://thanhhoatran.com/page/2/
+
+### Blog tiếng Anh
+1. https://www.ministryoftesting.com/: Cộng đồng lớn nhất dành cho tester với nhiều bài viết và tài nguyên.
+1. https://testguild.com/: Chuyên về automation testing, podcast, và bài viết về testing.
+1. https://www.guru99.com/software-testing.html: Các kiến thức về testing, đa dạng và đầy đủ
+1. https://www.softwaretestinghelp.com/: Blog về các chủ đề từ kiểm thử thủ công đến kiểm thử tự động.
+1. https://theqalead.com/: Blog cung cấp các bài viết, video, và podcast về các chủ đề liên quan đến QA, bao gồm automation, performance, security, và mobile testing
+1. https://www.selenium.dev/blog/:  Blog chính thức của Selenium, chia sẻ các bài viết, tài liệu, và video về framework Selenium
+1. https://saucelabs.com/resources/blog: Blog cung cấp các bài viết, video, và tài liệu về automation testing, bao gồm các chủ đề về Selenium, Appium, và Cypress.
+1. https://www.cypress.io/blog/ - Blog cung cấp các bài viết, video, và tài liệu về automation testing với Cypress.
+
+## Kênh Youtube hay dành cho QA‌/ Tester
+
+## Cộng đồng testing
+### Cộng đồng Việt Nam
+1. [Cộng đồng TESTING VN](https://www.facebook.com/groups/382211559308192)
+2. [Cộng đồng Playwright Việt Nam](https://www.facebook.com/groups/1477249662842354)
+
+### Cộng đồng trên thế giới
+## Repo luyện tập 
+1. [Playwright practice](https://github.com/playwrightvn/pw-discovery)
+
 # Topic chia theo level
 ## Level beginner
 
 ## Level advance
 
+## Câu hỏi phỏng vấn
+1. Câu hỏi phỏng vấn manual testing
+1. Câu hỏi phỏng vấn API testing
+1. Câu hỏi phỏng vấn Automation testing
+1. Câu hỏi phỏng vấn Selenium
+1. Câu hỏi phỏng vấn Playwright
 # Topic chia theo mối quan tâm
 ## Testing material (tài liệu phục vụ test)
 ## Testing tools (công cụ test)
@@ -15,10 +52,12 @@
 - Có phí
 
 ### Test API
-- Free
-    - [Postman](https://www.postman.com/)
-- Có phí
-    - 
+#### Free
+- [Postman](https://www.postman.com/)
+- CHARLES
+
+#### Có phí
+
 ## Manual testing
 ## Automation testing
 ## API testing
@@ -31,9 +70,7 @@
 # Sách liên quan đến testing
 1. [How Google Tests Software](https://books.google.com.vn/books/about/How_Google_Tests_Software.html)
 
-# Cộng đồng testing
-1. [Cộng đồng TESTING VN](https://www.facebook.com/groups/382211559308192)
-2. [Cộng đồng Playwright Việt Nam](https://www.facebook.com/groups/1477249662842354)
+
 
 # Tham khảo thêm tài liệu testing:
 1. https://github.com/TheJambo/awesome-testing
