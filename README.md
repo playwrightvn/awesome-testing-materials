@@ -7,12 +7,8 @@
 - [Mục lục](#mục-lục)
 - [Topic hàng ngày](#topic-hàng-ngày)
   - [Blog cập nhật kiến thức QA hàng ngày](#blog-cập-nhật-kiến-thức-qa-hàng-ngày)
-    - [Blog tiếng Việt](#blog-tiếng-việt)
-    - [Blog tiếng Anh](#blog-tiếng-anh)
   - [Kênh Youtube hay dành cho QA‌/ Tester](#kênh-youtube-hay-dành-cho-qa-tester)
   - [Cộng đồng testing](#cộng-đồng-testing)
-    - [Cộng đồng Việt Nam](#cộng-đồng-việt-nam)
-    - [Cộng đồng trên thế giới](#cộng-đồng-trên-thế-giới)
   - [Repo luyện tập](#repo-luyện-tập)
 - [Topic chia theo level](#topic-chia-theo-level)
   - [Level beginner](#level-beginner)
@@ -21,10 +17,6 @@
 - [Topic chia theo mối quan tâm](#topic-chia-theo-mối-quan-tâm)
   - [Testing material (tài liệu phục vụ test)](#testing-material-tài-liệu-phục-vụ-test)
   - [Testing tools (công cụ test)](#testing-tools-công-cụ-test)
-    - [Chụp ảnh màn hình](#chụp-ảnh-màn-hình)
-    - [Test API](#test-api)
-      - [Free](#free)
-      - [Có phí](#có-phí)
   - [Manual testing](#manual-testing)
   - [Automation testing](#automation-testing)
   - [API testing](#api-testing)
@@ -38,8 +30,8 @@
 # Topic hàng ngày
 ## Blog cập nhật kiến thức QA hàng ngày
 ### Blog tiếng Việt
-1. Blog Playwright Việt Nam
-1. Blog của anh Jos Donal Tran: https://doaitran.super.site/
+1. Blog Playwright Việt Nam: https://playwrightvn.com/
+1. Blog của Jos Donal Tran: https://doaitran.super.site/
 1. Blog Testing VN: https://www.testing.vn/blogs/
 1. Blog Anh Tester: https://anhtester.com/blogs
 1. Blog Giang Tester: https://giangtester.com/
@@ -72,9 +64,10 @@
 ## Level advance
 
 ## Câu hỏi phỏng vấn
-1. Câu hỏi phỏng vấn manual testing
+1. [Câu hỏi phỏng vấn manual testing](interview/01-manual-question.md)
 1. Câu hỏi phỏng vấn API testing
-1. Câu hỏi phỏng vấn Automation testing
+1. [Câu hỏi phỏng vấn Automation testing](interview/02-automation-testing-question.md)
+1. [Câu hỏi phỏng vấn tình huống, ứng xử](interview/03-behaviour.md)
 1. Câu hỏi phỏng vấn Selenium
 1. Câu hỏi phỏng vấn Playwright
 # Topic chia theo mối quan tâm
