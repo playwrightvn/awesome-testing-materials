@@ -95,7 +95,8 @@
 
 # Sách liên quan đến testing
 1. [How Google Tests Software](https://books.google.com.vn/books/about/How_Google_Tests_Software.html)
-
+1. [Effective Software Testing: A developer's guide](https://www.amazon.com/Effective-Software-Testing-developers-guide/dp/1633439933/)
+1. [Full Stack Testing: A Practical Guide for Delivering High Quality Software](https://www.amazon.com/Full-Stack-Testing-Practical-Delivering/dp/1098108132)
 
 
 # Tham khảo thêm tài liệu testing:
