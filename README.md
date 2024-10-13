@@ -89,6 +89,9 @@
 ## Manual testing
 ## Automation testing
 ## API testing
+## SQL testing
+## Mobile testing
+- [Appium](https://appium.io/)
 ## Security testing
 ## Performance testing
 
