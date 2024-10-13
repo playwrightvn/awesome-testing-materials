@@ -64,6 +64,7 @@
 ## Level advance
 
 ## Câu hỏi phỏng vấn
+1. [Template chuẩn bị phỏng vấn ứng viên](interview/00-template-interview.md)
 1. [Câu hỏi phỏng vấn manual testing](interview/01-manual-question.md)
 1. Câu hỏi phỏng vấn API testing
 1. [Câu hỏi phỏng vấn Automation testing](interview/02-automation-testing-question.md)
