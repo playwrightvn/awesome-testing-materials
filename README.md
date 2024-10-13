@@ -68,6 +68,7 @@
 1. [Câu hỏi phỏng vấn manual testing](interview/01-manual-question.md)
 1. [Câu hỏi phỏng vấn API testing](interview/04-api-questions.md)
 1. [Câu hỏi phỏng vấn Automation testing](interview/02-automation-testing-question.md)
+1. [Câu hỏi phỏng vấn SQL](interview/05-sql-questions.md)
 1. [Câu hỏi phỏng vấn tình huống, ứng xử](interview/03-behaviour.md)
 1. Câu hỏi phỏng vấn Selenium
 1. Câu hỏi phỏng vấn Playwright
