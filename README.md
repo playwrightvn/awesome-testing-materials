@@ -66,7 +66,7 @@
 ## Câu hỏi phỏng vấn
 1. [Template chuẩn bị phỏng vấn ứng viên](interview/00-template-interview.md)
 1. [Câu hỏi phỏng vấn manual testing](interview/01-manual-question.md)
-1. Câu hỏi phỏng vấn API testing
+1. [Câu hỏi phỏng vấn API testing](interview/04-api-questions.md)
 1. [Câu hỏi phỏng vấn Automation testing](interview/02-automation-testing-question.md)
 1. [Câu hỏi phỏng vấn tình huống, ứng xử](interview/03-behaviour.md)
 1. Câu hỏi phỏng vấn Selenium
@@ -98,7 +98,9 @@
 1. [How Google Tests Software](https://books.google.com.vn/books/about/How_Google_Tests_Software.html)
 1. [Effective Software Testing: A developer's guide](https://www.amazon.com/Effective-Software-Testing-developers-guide/dp/1633439933/)
 1. [Full Stack Testing: A Practical Guide for Delivering High Quality Software](https://www.amazon.com/Full-Stack-Testing-Practical-Delivering/dp/1098108132)
-
+1. [Lessons Learned in Software Testing: A Context-Driven Approach](https://www.amazon.com/Lessons-Learned-Software-Testing-Context-Driven/dp/0471081124)
+1. [Software Testing Techniques](https://www.amazon.com/Software-Testing-Techniques-Boris-Beizer/dp/8177222600)
+1. [Software Testing - Ron Patton](https://www.amazon.com/Software-Testing-Ron-Patton/dp/0672327988/)
 
 # Tham khảo thêm tài liệu testing:
 1. https://github.com/TheJambo/awesome-testing
