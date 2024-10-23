@@ -76,8 +76,16 @@
 ## Testing material (tài liệu phục vụ test)
 ## Testing tools (công cụ test)
 ### Chụp ảnh màn hình
-- Free
-- Có phí
+#### Trên window
+1. Snipping tool
+1. Window game bar
+#### Trên Android
+1. AZ Screen Recorder
+1. Google Play Games
+#### Trên iOS
+1. iOS Built-in Screen Recorder
+1. Record it!
+
 
 ### Test API
 #### Free
