@@ -96,6 +96,7 @@
 
 ## Manual testing
 ## Automation testing
+- [Agent QA](https://github.com/vostride/agent-qa) - CLI và máy chủ MCP để chạy kiểm thử web và mobile được mô tả bằng ngôn ngữ tự nhiên.
 ## API testing
 ## SQL testing
 ## Mobile testing
